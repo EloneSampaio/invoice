@@ -1,0 +1,5 @@
+{
+    "require": {
+        "konekt/pdf-invoice": "^1.13"
+    }
+}
